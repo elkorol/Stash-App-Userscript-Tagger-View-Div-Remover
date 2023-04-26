@@ -7,3 +7,5 @@ It uses a MutationObserver, to look out for new scene DIVS to add a remove butto
 ## Usage
 
 Open and copy or load the Javascript into your favourite Userscript Manager, like Tampermonkey or Violent Monkey and change @match to point to the URL of your Stash configuration.
+
+![Tagger Remover](https://github.com/elkorol/Stash-App-Userscript-Tagger-View-Div-Remover/blob/1a9660fe335b4640cba829fbdc8e6efd54e22bf4/images/1.png)
